@@ -7,3 +7,11 @@ With a background in Communication and a specialization in graphic expression, I
 Feel free to reach out to me via email at laura.lopez.alo@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/lauralopezalo/).
 
 Let's collaborate and bring ideas to life! 😊🚀
+
+<br>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,vue,T,html,css,sass,styledcomponents,tailwind,bootstrap,java,c,mysql,git,postman,vim,R,figma,ai,ps,pr&perline=11" />
+  </a>
+</p>
